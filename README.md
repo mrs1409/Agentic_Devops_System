@@ -2,10 +2,8 @@
 
 **AI-Powered Autonomous Incident Response & Remediation Platform**
 
-[![Build Status](https://github.com/s-hari-haran/devopsagent/actions/workflows/build-and-push.yml/badge.svg)](https://github.com/s-hari-haran/devopsagent/actions)
-[![Docker Hub](https://img.shields.io/badge/Docker-realhariharans-blue)](https://hub.docker.com/u/realhariharans)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)](https://github.com/s-hari-haran/devopsagent)
+[![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)](https://github.com/mrs1409/Agentic_Devops_System)
 [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://python.org)
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED)](https://docs.docker.com/compose/)
 
@@ -204,8 +202,8 @@ You'll also need **at least one LLM API key**:
 ### Step 1 — Clone the repo
 
 ```bash
-git clone https://github.com/s-hari-haran/devopsagent.git
-cd devopsagent
+git clone https://github.com/mrs1409/Agentic_Devops_System.git
+cd Agentic_Devops_System
 ```
 
 ### Step 2 — Set up environment variables
@@ -532,7 +530,7 @@ Edit `services/auto-response-agent/app/executors/` — add your custom executor 
 
 We welcome contributions! Please:
 
-1. Fork the repository
+1. Fork the repository at [github.com/mrs1409/Agentic_Devops_System](https://github.com/mrs1409/Agentic_Devops_System)
 2. Create a feature branch: `git checkout -b feature/my-feature`
 3. Commit with clear messages: `git commit -m 'feat: add my feature'`
 4. Push and open a Pull Request
@@ -560,9 +558,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**Hari Haran S**
-- GitHub: [@s-hari-haran](https://github.com/s-hari-haran)
-- Docker Hub: [realhariharans](https://hub.docker.com/u/realhariharans)
+**mrs1409**
+- GitHub: [@mrs1409](https://github.com/mrs1409)
+- Repo: [Agentic_Devops_System](https://github.com/mrs1409/Agentic_Devops_System)
 
 ---
 
